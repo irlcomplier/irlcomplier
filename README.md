@@ -4,7 +4,4 @@
 - 💞️ I’m looking to collaborate on Python
 - ⚡ Fun fact: I first learnt how to code at 10
 
-<!---
-irlcomplier/irlcomplier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- P.S: I am working on a project which is an algorithm creating a secure password with random aspects. I need to change some parts, finish it and ensure it is efficient. :)
